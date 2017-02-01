@@ -1,0 +1,19 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-T4SWuZ/socket
+SSH_AUTH_SOCK=/tmp/keyring-T4SWuZ/socket.ssh
+Failed to play sound: Not available
+W: main.c: This program is not intended to be run as root (unless --system is specified).
+
+(polkit-gnome-authentication-agent-1:2485): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2485): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+** Message: adding killswitch idx 0 state KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+
+(bluetooth-applet:2488): GLib-GObject-WARNING **: invalid cast from `GtkAction' to `GtkActionGroup'
+** Message: killswitch 0 is KILLSWITCH_STATE_UNBLOCKED
+** Message: killswitches state KILLSWITCH_STATE_UNBLOCKED
+** Message: applet now removed from the notification area
+Initializing nautilus-open-terminal extension
+Initializing nautilus-gdu extension
+** Message: applet now embedded in the notification area
